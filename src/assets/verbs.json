@@ -1,0 +1,21 @@
+{
+  "cards": [
+    {
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ser"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "be",
+          "simplePast": "was/were",
+          "pastParticiple": "been"
+        }
+      }
+    }
+  ]
+}
