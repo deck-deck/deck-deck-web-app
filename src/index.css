@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+  background-color: #fafafa;
+}
+
+.card__front--hidden .card__front {
+  display: none;
+}
+
+.card__back--hidden .card__back {
+  display: none;
+}
