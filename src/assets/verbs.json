@@ -16,6 +16,334 @@
           "pastParticiple": "been"
         }
       }
+    },
+    {
+      "id": "2ef8f468-48d4-4e51-a4c8-77845cec6d2a",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "tener"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "have",
+          "simplePast": "had",
+          "pastParticiple": "had"
+        }
+      }
+    },
+    {
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "hacer"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "do",
+          "simplePast": "did",
+          "pastParticiple": "done"
+        }
+      }
+    },
+    {
+      "id": "dbeda5fe-ba32-4c6b-bb8b-b2db2e9006b3",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "decir"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "say",
+          "simplePast": "said",
+          "pastParticiple": "said"
+        }
+      }
+    },
+    {
+      "id": "0849865e-93f3-4d0e-a72f-2dd81aff7c1f",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "crear"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "make",
+          "simplePast": "made",
+          "pastParticiple": "made"
+        }
+      }
+    },
+    {
+      "id": "c4fe80e0-baa9-4f21-9847-4c2a3cae7ce0",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "venir"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "come",
+          "simplePast": "came",
+          "pastParticiple": "come"
+        }
+      }
+    },
+    {
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ir"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "go",
+          "simplePast": "went",
+          "pastParticiple": "gone"
+        }
+      }
+    },
+    {
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "obtener"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "get",
+          "simplePast": "got",
+          "pastParticiple": "got/gotten"
+        }
+      }
+    },
+    {
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ver"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "see",
+          "simplePast": "saw",
+          "pastParticiple": "seen"
+        }
+      }
+    },{
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ser"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "be",
+          "simplePast": "was/were",
+          "pastParticiple": "been"
+        }
+      }
+    },{
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ser"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "be",
+          "simplePast": "was/were",
+          "pastParticiple": "been"
+        }
+      }
+    },{
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ser"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "be",
+          "simplePast": "was/were",
+          "pastParticiple": "been"
+        }
+      }
+    },{
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ser"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "be",
+          "simplePast": "was/were",
+          "pastParticiple": "been"
+        }
+      }
+    },{
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ser"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "be",
+          "simplePast": "was/were",
+          "pastParticiple": "been"
+        }
+      }
+    },{
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ser"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "be",
+          "simplePast": "was/were",
+          "pastParticiple": "been"
+        }
+      }
+    },{
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ser"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "be",
+          "simplePast": "was/were",
+          "pastParticiple": "been"
+        }
+      }
+    },{
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ser"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "be",
+          "simplePast": "was/were",
+          "pastParticiple": "been"
+        }
+      }
+    },{
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ser"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "be",
+          "simplePast": "was/were",
+          "pastParticiple": "been"
+        }
+      }
+    },{
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ser"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "be",
+          "simplePast": "was/were",
+          "pastParticiple": "been"
+        }
+      }
+    },{
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ser"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "be",
+          "simplePast": "was/were",
+          "pastParticiple": "been"
+        }
+      }
+    },{
+      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "ser"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "be",
+          "simplePast": "was/were",
+          "pastParticiple": "been"
+        }
+      }
     }
   ]
 }
