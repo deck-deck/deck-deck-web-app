@@ -107,7 +107,7 @@
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "03c99cf9-aee3-49dc-8169-a64a2432ce56",
       "front": {
         "template": "front",
         "data": {
@@ -124,7 +124,7 @@
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "1cec3741-87fc-4489-bebf-4cddb7692cb0",
       "front": {
         "template": "front",
         "data": {
@@ -141,7 +141,7 @@
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "ec8bf82c-4297-4bc2-bf7c-2749d446af82",
       "front": {
         "template": "front",
         "data": {
@@ -158,208 +158,361 @@
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "86202310-b9c3-480e-87f3-ce57c92f3cf3",
       "front": {
         "template": "front",
         "data": {
-          "spanish": "ser"
+          "spanish": "tomar/agarrar"
         }
       },
       "back": {
         "template": "back",
         "data": {
-          "present": "be",
-          "simplePast": "was/were",
-          "pastParticiple": "been"
+          "present": "take",
+          "simplePast": "took",
+          "pastParticiple": "taken"
         }
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "918602cf-a350-4096-8e51-cb24eac4d25d",
       "front": {
         "template": "front",
         "data": {
-          "spanish": "ser"
+          "spanish": "dar"
         }
       },
       "back": {
         "template": "back",
         "data": {
-          "present": "be",
-          "simplePast": "was/were",
-          "pastParticiple": "been"
+          "present": "give",
+          "simplePast": "gave",
+          "pastParticiple": "given"
         }
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "50512d05-0780-4839-a557-cefcac34fc55",
       "front": {
         "template": "front",
         "data": {
-          "spanish": "ser"
+          "spanish": "encontrar"
         }
       },
       "back": {
         "template": "back",
         "data": {
-          "present": "be",
-          "simplePast": "was/were",
-          "pastParticiple": "been"
+          "present": "find",
+          "simplePast": "found",
+          "pastParticiple": "found"
         }
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "0425404a-a4fd-4513-a513-c81921505d9a",
       "front": {
         "template": "front",
         "data": {
-          "spanish": "ser"
+          "spanish": "decir"
         }
       },
       "back": {
         "template": "back",
         "data": {
-          "present": "be",
-          "simplePast": "was/were",
-          "pastParticiple": "been"
+          "present": "tell",
+          "simplePast": "told",
+          "pastParticiple": "told"
         }
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "de21bc1a-8675-42b1-8f90-715ad41492b7",
       "front": {
         "template": "front",
         "data": {
-          "spanish": "ser"
+          "spanish": "sentir"
         }
       },
       "back": {
         "template": "back",
         "data": {
-          "present": "be",
-          "simplePast": "was/were",
-          "pastParticiple": "been"
+          "present": "feel",
+          "simplePast": "felt",
+          "pastParticiple": "felt"
         }
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "01688c9d-00ac-4155-bc28-44f2662d5a78",
       "front": {
         "template": "front",
         "data": {
-          "spanish": "ser"
+          "spanish": "dejar"
         }
       },
       "back": {
         "template": "back",
         "data": {
-          "present": "be",
-          "simplePast": "was/were",
-          "pastParticiple": "been"
+          "present": "leave",
+          "simplePast": "left",
+          "pastParticiple": "left"
         }
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "726f90ee-9744-4267-b450-2e942ab60bd4",
       "front": {
         "template": "front",
         "data": {
-          "spanish": "ser"
+          "spanish": "significar"
         }
       },
       "back": {
         "template": "back",
         "data": {
-          "present": "be",
-          "simplePast": "was/were",
-          "pastParticiple": "been"
+          "present": "mean",
+          "simplePast": "meant",
+          "pastParticiple": "meant"
         }
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "f36fd459-6907-467d-8a25-9ff6bddd7ad9",
       "front": {
         "template": "front",
         "data": {
-          "spanish": "ser"
+          "spanish": "mantener"
         }
       },
       "back": {
         "template": "back",
         "data": {
-          "present": "be",
-          "simplePast": "was/were",
-          "pastParticiple": "been"
+          "present": "keep",
+          "simplePast": "kept",
+          "pastParticiple": "kept"
         }
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "f3749bf1-d3fa-4bc3-8456-f7f6554645dc",
       "front": {
         "template": "front",
         "data": {
-          "spanish": "ser"
+          "spanish": "permitir"
         }
       },
       "back": {
         "template": "back",
         "data": {
-          "present": "be",
-          "simplePast": "was/were",
-          "pastParticiple": "been"
+          "present": "let",
+          "simplePast": "let",
+          "pastParticiple": "let"
         }
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "c1fd7261-e9f9-42bb-9a72-95760db7a934",
       "front": {
         "template": "front",
         "data": {
-          "spanish": "ser"
+          "spanish": "empezar"
         }
       },
       "back": {
         "template": "back",
         "data": {
-          "present": "be",
-          "simplePast": "was/were",
-          "pastParticiple": "been"
+          "present": "begin",
+          "simplePast": "began",
+          "pastParticiple": "begun"
         }
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "162ed87a-b8db-40c1-8c13-a218e9e2c61b",
       "front": {
         "template": "front",
         "data": {
-          "spanish": "ser"
+          "spanish": "oir"
         }
       },
       "back": {
         "template": "back",
         "data": {
-          "present": "be",
-          "simplePast": "was/were",
-          "pastParticiple": "been"
+          "present": "hear",
+          "simplePast": "heard",
+          "pastParticiple": "heard"
         }
       }
     },
     {
-      "id": "e7e91e2b-d99d-45bd-92d2-486f4b11570e",
+      "id": "b57c5949-a65c-4da8-abe7-8c44da369e8a",
       "front": {
         "template": "front",
         "data": {
-          "spanish": "ser"
+          "spanish": "correr"
         }
       },
       "back": {
         "template": "back",
         "data": {
-          "present": "be",
-          "simplePast": "was/were",
-          "pastParticiple": "been"
+          "present": "run",
+          "simplePast": "ran",
+          "pastParticiple": "run"
         }
       }
-    }
+    },
+    {
+      "id": "1639883a-7ad9-48ed-95c4-e8ec8d120990",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "traer"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "bring",
+          "simplePast": "brought",
+          "pastParticiple": "brought"
+        }
+      }
+    },
+    {
+      "id": "d63097a8-646d-4796-91e5-30b46a15d115",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "escribir"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "write",
+          "simplePast": "wrote",
+          "pastParticiple": "written"
+        }
+      }
+    },
+    {
+      "id": "a255ba0a-73b8-45d6-bb2b-1d1f7694de4b",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "sentarse"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "sit",
+          "simplePast": "sat",
+          "pastParticiple": "sat"
+        }
+      }
+    },
+    {
+      "id": "f2bd664f-d748-4fba-89b3-370615783a81",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "estar de pie"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "stand",
+          "simplePast": "stood",
+          "pastParticiple": "stood"
+        }
+      }
+    },
+    {
+      "id": "4e23e0d9-c59c-4647-91f3-2aed4eacfa05",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "perder"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "lose",
+          "simplePast": "lost",
+          "pastParticiple": "lost"
+        }
+      }
+    },
+    {
+      "id": "60e30e12-0a9b-4fdd-b228-b1e6a322ba92",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "pagar"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "pay",
+          "simplePast": "paid",
+          "pastParticiple": "paid"
+        }
+      }
+    },
+    {
+      "id": "753f8eef-a689-4d9d-9278-6e8b44a9b38b",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "encontrarse/conocerse"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "meet",
+          "simplePast": "met",
+          "pastParticiple": "met"
+        }
+      }
+    },
+    {
+      "id": "3ae47752-2908-4592-ad33-0b65dc925440",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "establecer"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "set",
+          "simplePast": "set",
+          "pastParticiple": "set"
+        }
+      }
+    },
+    {
+      "id": "e10813bd-bb76-40ad-bb86-03e7643d5f85",
+      "front": {
+        "template": "front",
+        "data": {
+          "spanish": "aprender"
+        }
+      },
+      "back": {
+        "template": "back",
+        "data": {
+          "present": "learn",
+          "simplePast": "learned",
+          "pastParticiple": "learned"
+        }
+      }
+    }    
   ]
 }
