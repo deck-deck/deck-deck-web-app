@@ -1,13 +1,31 @@
-import { JSX, createSignal } from "solid-js";
+import { JSX, createEffect, createSignal } from "solid-js";
 
-function Card(props: { children: JSX.Element; size?: "md"; status?: Status }) {
-  const [status, setStatus] = createSignal(Status.Front);
+function Card(props: {
+  children: JSX.Element;
+  size?: "md";
+  status?: () => Status;
+  setStatus?: (status: Status) => void;
+  onClick?: () => void;
+}) {
+  const [status, setStatus] = createSignal(
+    props.status ? props.status() : Status.Front
+  );
+  createEffect(() => {
+    if (props.status) setStatus(props.status());
+  });
   return (
     <div
-      onClick={() =>
-        setStatus(status() === Status.Front ? Status.Back : Status.Front)
-      }
-      class="flex justify-stretch items-stretch shadow aspect-[5/7] card"
+      onClick={() => {
+        if (props.onClick) {
+          props.onClick();
+          return;
+        }
+        const newStatus =
+          status() === Status.Front ? Status.Back : Status.Front;
+        setStatus(newStatus);
+        if (props.setStatus) props.setStatus(newStatus);
+      }}
+      class="flex justify-stretch items-stretch bg-white shadow-xl rounded-lg cursor-pointer overflow-hidden aspect-[5/7] card"
       classList={{
         "w-[300px]": props.size === "md",
         "card__front--hidden": status() !== Status.Front,
